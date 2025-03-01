@@ -1,3 +1,4 @@
+
 # react-sample-projects
 
 The goal of this project is to provide a set of simple samples, providing and step by step guide to start working with React.
@@ -64,31 +65,6 @@ Awesome! Contributions of all kinds are greatly appreciated. To help smoothen th
 
 1. Feel free to use GitHub [issues](https://github.com/curioustushar/react-sample-projects/issues) for questions, bug reports, and feature requests
 2. Use the search feature to check for an existing issue Include as much information as possible and provide any relevant resources (Eg. screenshots)
-
-## Created & Maintained By
-
-<table>
-  <tr>
-    <td align="center"><a href="https://curioustushar.github.io/">
-        <img src="https://avatars3.githubusercontent.com/u/12570521?v=4" width="100px;" alt="Tushar Gupta"/><br />
-        <sub><b>Tushar Gupta</b></sub></a><br />
-        <a href="#" title="Code">💻 </a>
-        <a href="#" title="Documentation">📖</a>
-        <a href="#" title="Ideas">🤔</a>
-        <a href="#" title="Answering Questions">💬 </a>
-        <a href="#" title="Reviewed Pull Requests">👀</a>
-        <a href="#" title="Maintenance">🚧 </a>
-    </td>
-    <td align="center"><a href="http://nmanikiran.com">
-        <img src="https://avatars2.githubusercontent.com/u/3726349?s=460&v=4" width="100px;" alt="Mani Kiran"/><br />
-        <sub><b>Mani Kiran N</b></sub></a><br />
-        <a href="#" title="Code">💻 </a>
-        <a href="#" title="Documentation">📖</a>
-        <a href="#" title="Ideas">🤔</a>
-        <a href="#" title="Maintenance">🚧 </a>
-    </td>
-  </tr>
-</table>
 
 Feel free to reach out to me through [@curioustushar](https://twitter.com/curioustushar) if you have any questions or feedback! 😊
 
